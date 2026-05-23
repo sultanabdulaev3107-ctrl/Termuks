@@ -10,6 +10,7 @@ RANK_URL = "https://us-central1-cp-multiplayer.cloudfunctions.net/SetUserRating4
 # --- ACCOUNTS (добавляй сколько хочешь) ---
 ACCOUNTS = [
     {"email": "sultanabdulaev2006@gmail.com", "password": "31072006"},
+    {"email": "sultanabdulaev206@gmail.com", "password": "31072006"},
     {"email": "den_isaev_95@mail.ru", "password": "Zaebali1995"},
     {"email": "kingcpmcpm1@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm2@gmail.com", "password": "666666"},
